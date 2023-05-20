@@ -1,0 +1,79 @@
+Reçel,Su,Margarin,Tavuk,Bal
+Kırmızı Et,Peynir,Margarin,Meyve suyu,Reçel,Bal
+Tavuk,Su,Peynir,Bal,Meyve suyu
+Sucuk,Su,Tavuk,Peynir
+Kırmızı Et,Su,Tavuk,Bal,Reçel,Süt
+Peynir,Su,Margarin,Süt,Bal
+Süt,Tavuk,Peynir,Meyve suyu,Bal
+Kırmızı Et,Tavuk,Bal,Reçel
+Tavuk,Peynir,Sucuk,Bal,Margarin,Su
+Tavuk,Peynir,Margarin,Süt,Bal
+Kırmızı Et,Su,Süt,Reçel
+Kırmızı Et,Tavuk,Peynir,Margarin,Meyve suyu,Bal
+Kırmızı Et,Tavuk,Peynir,Meyve suyu,Bal
+Tavuk,Sucuk,Su,Süt,Reçel,Margarin
+Peynir,Meyve suyu,Reçel,Süt,Bal,Margarin
+Tavuk,Peynir,Meyve suyu,Reçel,Bal
+Kırmızı Et,Peynir,Su,Margarin,Meyve suyu,Reçel
+Margarin,Meyve suyu,Bal,Sucuk,Reçel
+Tavuk,Sucuk,Su,Süt,Reçel,Bal
+Tavuk,Peynir,Margarin,Su,Bal
+Tavuk,Peynir,Su,Margarin,Meyve suyu,Reçel
+Peynir,Sucuk,Su,Reçel,Bal
+Kırmızı Et,Tavuk,Meyve suyu,Süt,Reçel,Bal
+Süt,Meyve suyu,Su,Sucuk,Reçel
+Kırmızı Et,Tavuk,Margarin,Meyve suyu,Reçel,Süt
+Süt,Sucuk,Su,Bal,Reçel
+Kırmızı Et,Tavuk,Sucuk,Margarin,Süt,Bal
+Tavuk,Peynir,Su,Süt,Reçel,Bal
+Peynir,Sucuk,Margarin,Meyve suyu,Süt,Bal
+Kırmızı Et,Su,Peynir,Bal,Reçel
+Kırmızı Et,Tavuk,Su,Bal,Margarin
+Tavuk,Sucuk,Su,Meyve suyu,Reçel
+Tavuk,Peynir,Margarin,Süt,Su
+Peynir,Margarin,Su,Meyve suyu,Bal
+Kırmızı Et,Tavuk,Peynir,Su,Sucuk,Meyve suyu
+Tavuk,Peynir,Margarin,Su,Meyve suyu,Reçel
+Peynir,Margarin,Su,Reçel
+Kırmızı Et,Tavuk,Su,Sucuk,Bal,Reçel
+Süt,Meyve suyu,Bal,Reçel
+Et,Peynir,Margarin,Meyve suyu,Bal
+Tavuk,Sucuk,Süt,Margarin,Reçel
+Tavuk,Peynir,Su,Bal,Sucuk
+Süt,Meyve suyu,Su,Reçel,Bal
+Kırmızı Et,Peynir,Su,Süt,Bal,Margarin
+Tavuk,Sucuk,Su,Peynir,Margarin
+Kırmızı Et,Tavuk,Sucuk,Süt,Reçel,Bal
+Tavuk,Peynir,Meyve suyu,Reçel,Bal,Sucuk
+Süt,Tavuk,Sucuk,Su,Reçel,Bal
+Peynir,Su,Margarin,Reçel,Bal
+Kırmızı Et,Tavuk,Margarin,Reçel,Bal,Süt
+Tavuk,Su,Meyve suyu,Reçel,Bal
+Kırmızı Et,Tavuk,Peynir,Süt,Su,Reçel
+Tavuk,Su,Peynir,Meyve suyu,Reçel,Bal
+Kırmızı Et,Su,Tavuk,Bal,Reçel,Süt
+Tavuk,Peynir,Su,Meyve suyu,Reçel,Margarin
+Kırmızı Et,Sucuk,Margarin,Meyve suyu,Süt,Bal
+Tavuk,Peynir,Meyve suyu,Su,Süt,Bal
+Kırmızı Et,Peynir,Margarin,Su,Bal
+Tavuk,Sucuk,Peynir,Su,Reçel,Bal
+Kırmızı Et,Tavuk,Meyve suyu,Süt,Reçel,Margarin
+Tavuk,Peynir,Su,Margarin,Reçel
+Kırmızı Et,Su,Süt,Reçel,Meyve suyu
+Kırmızı Et,Tavuk,Bal,Reçel,Peynir
+Peynir,Su,Meyve suyu,Reçel,Bal
+Tavuk,Su,Sucuk,Reçel,Bal
+Kırmızı Et,Tavuk,Peynir,Su,Margarin,Bal
+Tavuk,Peynir,Margarin,Su,Bal,Reçel
+Kırmızı Et,Su,Peynir,Bal,Reçel,Süt
+Tavuk,Peynir,Margarin,Süt,Su,Bal
+Kırmızı Et,Su,Tavuk,Peynir,Meyve suyu,Bal
+Tavuk,Sucuk,Su,Meyve suyu,Bal,Reçel
+Kırmızı Et,Su,Peynir,Süt,Reçel,Bal
+Tavuk,Peynir,Margarin,Meyve suyu,Reçel,Su
+Kırmızı Et,Tavuk,Sucuk,Su,Reçel,Bal
+Tavuk,Peynir,Su,Reçel,Margarin
+Kırmızı Et,Tavuk,Peynir,Su,Süt,Reçel
+Tavuk,Peynir,Margarin,Su,Süt,Bal
+Kırmızı Et,Sucuk,Meyve suyu,Süt
+
